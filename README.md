@@ -1,1 +1,1 @@
-# Pomodoro app made with tkinter and python.
+### Pomodoro app made with tkinter and python.
